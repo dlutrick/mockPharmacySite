@@ -1,0 +1,25 @@
+{
+  "name": "mockPharmacySite",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "dev": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlutrick/mockPharmacySite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlutrick/mockPharmacySite/issues"
+  },
+  "homepage": "https://github.com/dlutrick/mockPharmacySite#readme",
+  "devDependencies": {
+    "webpack": "^5.25.0",
+    "webpack-cli": "^4.5.0"
+  }
+}
